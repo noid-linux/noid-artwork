@@ -1,0 +1,13 @@
+{
+	"KPlugin": {
+		"Authors": [
+			{
+				"Email": "akmgrau@gmail.com",
+				"Name": "Andrea Maymó Grau"
+			}
+		],
+		"Id": "NoidCat",
+		"License": "CC-BY-4.0",
+		"Name": "NoidCat"
+	}
+}

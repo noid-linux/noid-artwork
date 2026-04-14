@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+
+<wallpaper deleted="false">
+    <name>Noid Cat</name>
+    <filename>/usr/share/backgrounds/NoidCat1080p.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Andrea Maymó Grau</artist>
+</wallpaper>
+
+</wallpapers>
