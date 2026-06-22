@@ -5,18 +5,18 @@ BACKGROUNDS = \
 	$(wildcard backgrounds/*.png)
 
 install_icons:
-	for size in 16 32 64 128 256 512; do \
+	for size in 16 22 32 48 64 128 256 512; do \
 		install -Dm0644 icons/noid-logo-$${size}.png \
 			$(DESTDIR)$(PREFIX)/share/icons/hicolor/$${size}x$${size}/apps/noid-logo.png; \
-		install -Dm0644 icons/noid-logo-notext-$${size}.png \
-			$(DESTDIR)$(PREFIX)/share/icons/hicolor/$${size}x$${size}/apps/noid-logo-notext.png; \
+		install -Dm0644 icons/noid-logo-nopaw-$${size}.png \
+			$(DESTDIR)$(PREFIX)/share/icons/hicolor/$${size}x$${size}/apps/noid-logo-nopaw.png; \
 	done
 
 install_logo:
 	install -Dm0644 logo/splash.png \
 		$(DESTDIR)$(PREFIX)/share/noid-artwork/splash.png
-	install -Dm0644 logo/noid-logo.png \
-		$(DESTDIR)$(PREFIX)/share/noid-artwork/noid-logo.png
+	install -Dm0644 logo/noid-transparent.png \
+		$(DESTDIR)$(PREFIX)/share/noid-artwork/noid-transparent.png
 
 install_backgrounds:
 	install -dm0755 $(DESTDIR)$(PREFIX)/share/backgrounds
