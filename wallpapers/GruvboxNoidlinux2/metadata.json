@@ -1,0 +1,13 @@
+{
+	"KPlugin": {
+		"Authors": [
+			{
+				"Email": "ndpm13@ch-naseem.com",
+				"Name": "Naz"
+			}
+		],
+		"Id": "Gruvbox-Noidlinux2",
+		"License": "CC-BY-4.0",
+		"Name": "Gruvbox-Noidlinux2"
+	}
+}

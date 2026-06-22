@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-
-<wallpaper deleted="false">
+  <wallpaper deleted="false">
     <name>Noid Cat</name>
     <filename>/usr/share/backgrounds/NoidCat1080p.png</filename>
     <options>zoom</options>
@@ -10,6 +9,23 @@
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <artist>Andrea Maymó Grau</artist>
-</wallpaper>
-
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Gruvbox-Noidlinux</name>
+    <filename>/usr/share/backgrounds/GruvboxNoidlinux8K.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Naz</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Gruvbox-Noidlinux2</name>
+    <filename>/usr/share/backgrounds/GruvboxNoidlinuxAlt8K.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Naz</artist>
+  </wallpaper>
 </wallpapers>
